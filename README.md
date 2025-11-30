@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manveeth Reddy</h1>
-<h3 align="center">Aspiring Full Stack Developer | AI & DevOps Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Web Developer| React, Node.js, & SQL | HTML,CSS,JS | Full Stack Development.</h3>
 
 📍 Hyderabad, India  
 📧 Email: manveethreddyadumala@gmail.com  
@@ -9,16 +9,15 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate and proactive software engineering student pursuing my B.Tech in Information Technology at Guru Nanak Institute of Technology (Graduating 2025). I specialize in full stack development, DevOps, and AI-powered solutions, with hands-on experience in projects involving computer vision, recommendation systems, and cloud technologies.
+I am a recent graduate (B.Tech Information Technology, 2025) with a CGPA of 7.5. My academic journey at Gurunanak Institute of Technology built a strong foundation in software engineering principles, while my personal projects allowed me to master modern tools like HTML,CSS,JS,React,Node js and SQL.
 
 ---
 
 ### 🧠 Currently Learning
 
-- Data Structures and Algorithms  
-- DevOps with AWS  
+- Data Structures and Algorithms   
 - ReactJS
--  Java Full Stack  
+- Java Full Stack
 
 ---
 
