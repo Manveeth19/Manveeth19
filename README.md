@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manveeth Reddy</h1>
-<h3 align="center">Web Developer| React, Node.js, & SQL | HTML,CSS,JS | Full Stack Development.</h3>
+<h3 align="center">Web Developer| React, Node.js, & SQL| Full Stack Development.</h3>
 
 📍 Hyderabad, India  
 📧 Email: manveethreddyadumala@gmail.com  
@@ -17,6 +17,9 @@ I am a recent graduate (B.Tech Information Technology, 2025) with a CGPA of 7.5.
 
 - Data Structures and Algorithms   
 - ReactJS
+- Node JS
+- SQL
+- Next JS
 - Java Full Stack
 
 ---
