@@ -39,7 +39,7 @@ I am a recent graduate (B.Tech Information Technology, 2025) with a CGPA of 7.5.
 
   **🔹 PDF Play – Online PDF Utility Platform**   🔗 [PDFPlay](https://pdfplay.in/)
   
--Technologies: React.js, JavaScript, Node.js, HTML, CSS 
+ -Technologies: React.js, JavaScript, Node.js, HTML, CSS 
 - Built a web-based platform for PDF merging, splitting, conversion, compression, and optimization
 - Designed a responsive, SEO-optimized UI for fast and user-friendly document processing  
 -Deployed on production hosting with custom domain and performance optimization
