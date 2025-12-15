@@ -37,6 +37,18 @@ I am a recent graduate (B.Tech Information Technology, 2025) with a CGPA of 7.5.
 - Used TF-IDF, Cosine Similarity, and deep learning for hybrid filtering  
 - Future Add-ons: Demographic-based filtering, real-time feedback, and third-party API integration
 
+  **🔹 PDF Play – Online PDF Utility Platform**   🔗 [PDFPlay](https://pdfplay.in/) 
+-Technologies: React.js, JavaScript, Node.js, HTML, CSS 
+- Built a web-based platform for PDF merging, splitting, conversion, compression, and optimization
+- Designed a responsive, SEO-optimized UI for fast and user-friendly document processing  
+-Deployed on production hosting with custom domain and performance optimization
+
+ **🔹 Personal Portfolio Website**   🔗 [Manveeth's Portfolio](https://manveethreddy-portfolio.netlify.app/) 
+-Technologies: React.js, JavaScript, Node.js, HTML, CSS 
+- Designed and developed a fully responsive personal portfolio to showcase projects, skills, and achievements
+- Implemented clean UI/UX principles for better recruiter engagement
+- Optimized build performance and deployed using Netlify
+
 ---
 
 ### 🛠️ Languages & Tools
